@@ -10,13 +10,13 @@ which implicitly implements `\Sly\NotificationPusher\Adapter\AdapterInterface` w
 * `getDefaultParameters`: returns default parameters used by the adapter
 * `getRequiredParameters`: returns required parameters used by the adapter
 
-Feel free to observe [existent adapters](https://github.com/Ph3nol/NotificationPusher/tree/master/src/Sly/NotificationPusher/Adapter) for concrete example.
+Feel free to observe [existent adapters](https://github.com/monove/NotificationPusher/tree/multiple_response/src/Sly/NotificationPusher/Adapter) for concrete example.
 
 ## Documentation index
 
-* [Installation](https://github.com/Ph3nol/NotificationPusher/blob/master/doc/installation.md)
-* [Getting started](https://github.com/Ph3nol/NotificationPusher/blob/master/doc/getting-started.md)
-* [APNS adapter](https://github.com/Ph3nol/NotificationPusher/blob/master/doc/apns-adapter.md)
-* [GCM adapter](https://github.com/Ph3nol/NotificationPusher/blob/master/doc/gcm-adapter.md)
+* [Installation](https://github.com/monove/NotificationPusher/tree/multiple_response/doc/installation.md)
+* [Getting started](https://github.com/monove/NotificationPusher/tree/multiple_response/doc/getting-started.md)
+* [APNS adapter](https://github.com/monove/NotificationPusher/tree/multiple_response/doc/apns-adapter.md)
+* [GCM adapter](https://github.com/monove/NotificationPusher/tree/multiple_response/doc/gcm-adapter.md)
 * Create an adapter
-* [Push from CLI](https://github.com/Ph3nol/NotificationPusher/blob/master/doc/push-from-cli.md)
+* [Push from CLI](https://github.com/monove/NotificationPusher/tree/multiple_response/doc/push-from-cli.md)
