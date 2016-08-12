@@ -79,8 +79,8 @@ $devices = new Sly\NotificationPusher\Collection\DeviceCollection(array(
 
 ## Documentation index
 
-* Installation
-* [Getting started](https://github.com/monove/NotificationPusher/tree/multiple_response/doc/getting-started.md)
+* [Installation](https://github.com/monove/NotificationPusher/tree/multiple_response/doc/installation.md)
+* Getting started
 * [APNS adapter](https://github.com/monove/NotificationPusher/tree/multiple_response/doc/apns-adapter.md)
 * [GCM adapter](https://github.com/monove/NotificationPusher/tree/multiple_response/doc/gcm-adapter.md)
 * [Create an adapter](https://github.com/monove/NotificationPusher/tree/multiple_response/doc/create-an-adapter.md)
